@@ -1,0 +1,1 @@
+Implementacja algorymtu Tabu serach w problemie optymalizacyjnym rozmieszczeneia studentów w akadamiekach, względem różnych kryteriów. (odległość od wydziału, preferencje, płeć itd+Różne sposoby definiowania sąsiedstwa rozwiązań). Do algorytmu również została napisana aplikacja za pomocą tkinter.
